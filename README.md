@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Mike Duffy. I do Go, DevOps, Systems admin, and write about all of the above. Feel free to contact me if you find any of the above intriquing and would like me to do some of it on your behalf.
+
 <!--
 **stunthamster/stunthamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
